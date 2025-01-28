@@ -37,7 +37,7 @@ Como executar o projeto
  - Clone o repositório
  "git clone https://github.com/SEU-USUARIO/projeto-restaurantes.git
 cd projeto-restaurantes"
- - Instale as dependênciasnp
+ - Instale as dependências
  "npm install"
  - Crie um arquivo .env na raiz do projeto e adicione as variáveis de ambiente para as APIs e Supabase:
  "OPENWEATHER_API_KEY=SuaChaveAPIOpenWeather
